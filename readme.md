@@ -1,1 +1,1 @@
-# Binkeyit Full Stack MERN App
+# Sarang Blinkit MERN App
